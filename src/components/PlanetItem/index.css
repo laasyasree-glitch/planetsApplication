@@ -1,0 +1,18 @@
+/* Write your CSS here */
+img {
+  width: 30%;
+}
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.name {
+  color: #f8fafc;
+  margin: 1%;
+}
+p {
+  color: #f1f5f9;
+}

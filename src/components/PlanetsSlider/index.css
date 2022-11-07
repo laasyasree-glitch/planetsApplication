@@ -1,0 +1,11 @@
+.slider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  padding: 5%;
+  min-height: 100vh;
+  background-size: cover;
+  text-align: center;
+}
+h1 {
+  margin-bottom: 5%;
+  color: #05acff;
+}
