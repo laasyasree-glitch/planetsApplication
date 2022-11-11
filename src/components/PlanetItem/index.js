@@ -1,8 +1,8 @@
 import './index.css'
 
 const PlanetItem = props => {
-  const {details} = props
-  const {name, imageUrl, description} = details
+  const {planetDetails} = props
+  const {name, imageUrl, description} = planetDetails
   return (
     <li>
       <img src={imageUrl} alt={`planet ${name}`} />
